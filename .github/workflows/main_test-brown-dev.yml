@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Test-Brown-dev'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A38AE49F5A9D4717B14F6D0AA0E30652 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AF09B13B8521478D951B956E3F748B19 }}
           package: '*.jar'
